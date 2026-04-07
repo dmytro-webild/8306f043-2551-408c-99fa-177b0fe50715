@@ -87,7 +87,7 @@ export default function LandingPage() {
                 title: "Farver & teksturer",                description: "Nøje udvalgte nuancer, prints og detaljer.",                imageSrc: "http://img.b2bpic.net/free-photo/view-hawaiian-shirts-with-floral-print_23-2149366022.jpg?_wi=1"},
             ]}
             title="Kollektionen"
-            description="Oplev styles udvalgt til dig, der værdsætter individualitet og kvalitet."
+            description="Find styles der fremhæver din personlighed og sikrer høj kvalitet."
           />
         </div>
 
