@@ -29,10 +29,10 @@ export default function LandingPage() {
         <div id="nav" data-section="nav">
           <NavbarStyleFullscreen
             navItems={[
-              { name: "Home", id: "home" },
-              { name: "Story", id: "about" },
-              { name: "Collection", id: "collection" },
-              { name: "Visit Us", id: "contact" },
+              { name: "Forside", id: "home" },
+              { name: "Historie", id: "about" },
+              { name: "Kollektion", id: "collection" },
+              { name: "Besøg os", id: "contact" },
             ]}
             brandName="Butik Aleta"
           />
@@ -41,34 +41,34 @@ export default function LandingPage() {
         <div id="home" data-section="home">
           <HeroSplitDualMedia
             background={{ variant: "radial-gradient" }}
-            title="Clothing You Won’t Find Anywhere Else"
-            description="Carefully selected pieces in beautiful materials, colors, and silhouettes. Curated with care for women who want something no one else has."
-            tag="Luxury Boutique"
+            title="Tøj du ikke finder andre steder"
+            description="Nøje udvalgte styles i smukke materialer, farver og silhuetter. Kurateret med kærlighed til kvinder, der ønsker noget unikt."
+            tag="Luksus Boutique"
             buttons={[
-              { text: "Discover Collection", href: "#collection" },
-              { text: "Visit Boutique", href: "#contact" },
+              { text: "Se kollektion", href: "#collection" },
+              { text: "Besøg butikken", href: "#contact" },
             ]}
             mediaItems={[
               {
-                imageSrc: "http://img.b2bpic.net/free-photo/pretty-young-woman-with-wet-hair-posing-studio-wearing-black-oversize-blazer-shiny-necklace_343596-7120.jpg?_wi=1",                imageAlt: "Luxury fashion editorial 1"},
+                imageSrc: "http://img.b2bpic.net/free-photo/pretty-young-woman-with-wet-hair-posing-studio-wearing-black-oversize-blazer-shiny-necklace_343596-7120.jpg?_wi=1",                imageAlt: "Luksus mode editorial 1"},
               {
-                imageSrc: "http://img.b2bpic.net/free-photo/pretty-young-woman-with-wet-hair-posing-studio-wearing-black-oversize-blazer-shiny-necklace_343596-7120.jpg?_wi=2",                imageAlt: "Luxury fashion editorial 2"}
+                imageSrc: "http://img.b2bpic.net/free-photo/pretty-young-woman-with-wet-hair-posing-studio-wearing-black-oversize-blazer-shiny-necklace_343596-7120.jpg?_wi=2",                imageAlt: "Luksus mode editorial 2"}
             ]}
             mediaAnimation="blur-reveal"
             rating={5}
-            ratingText="Loved by our local community"
+            ratingText="Elsket af vores lokale community"
           />
         </div>
 
         <div id="about" data-section="about">
           <TestimonialAboutCard
             useInvertedBackground={false}
-            tag="Our Story"
-            title="A Personal Boutique"
-            description="Butik Aleta is built on a love for unique clothing and thoughtful details. Each piece is carefully chosen for its quality, texture, and expression."
-            subdescription="Curated with care by Frida."
+            tag="Vores historie"
+            title="En personlig boutique"
+            description="Butik Aleta er bygget på kærligheden til unikt tøj og gennemtænkte detaljer. Hver style er nøje udvalgt for sin kvalitet, tekstur og udtryk."
+            subdescription="Kurateret med kærlighed af Frida."
             imageSrc="http://img.b2bpic.net/free-photo/woman-working-with-dried-flowers_52683-91337.jpg?_wi=1"
-            imageAlt="Boutique interior details"
+            imageAlt="Boutique interiør detaljer"
             icon={Sparkles}
           />
         </div>
@@ -79,14 +79,14 @@ export default function LandingPage() {
             useInvertedBackground={true}
             features={[
               {
-                title: "Unique Pieces",                description: "Styles you won’t see everywhere else.",                imageSrc: "http://img.b2bpic.net/free-photo/vertical-closeup-shot-female-wearing-brown-dress-metallic-leaf-shaped-ring_181624-23911.jpg?_wi=1"},
+                title: "Unikke styles",                description: "Styles du ikke ser alle andre steder.",                imageSrc: "http://img.b2bpic.net/free-photo/vertical-closeup-shot-female-wearing-brown-dress-metallic-leaf-shaped-ring_181624-23911.jpg?_wi=1"},
               {
-                title: "Quality Materials",                description: "Fabrics that feel as good as they look.",                imageSrc: "http://img.b2bpic.net/free-photo/trendy-color-swatches-with-different-elements_23-2150169906.jpg?_wi=1"},
+                title: "Kvalitetsmaterialer",                description: "Tekstiler der føles lige så gode, som de ser ud.",                imageSrc: "http://img.b2bpic.net/free-photo/trendy-color-swatches-with-different-elements_23-2150169906.jpg?_wi=1"},
               {
-                title: "Colors & Textures",                description: "Carefully selected tones, prints, and details.",                imageSrc: "http://img.b2bpic.net/free-photo/view-hawaiian-shirts-with-floral-print_23-2149366022.jpg?_wi=1"},
+                title: "Farver & teksturer",                description: "Nøje udvalgte nuancer, prints og detaljer.",                imageSrc: "http://img.b2bpic.net/free-photo/view-hawaiian-shirts-with-floral-print_23-2149366022.jpg?_wi=1"},
             ]}
-            title="The Collection"
-            description="Discover pieces curated for those who value individuality and quality."
+            title="Kollektionen"
+            description="Oplev styles udvalgt til dig, der værdsætter individualitet og kvalitet."
           />
         </div>
 
@@ -96,14 +96,14 @@ export default function LandingPage() {
             textboxLayout="default"
             useInvertedBackground={false}
             testimonials={[
-              { id: "1", name: "Mette H.", handle: "@metteh", testimonial: "Beautiful, unique quality pieces ❤️", imageSrc: "http://img.b2bpic.net/free-photo/pretty-young-woman-with-wet-hair-posing-studio-wearing-black-oversize-blazer-shiny-necklace_343596-7120.jpg?_wi=3", imageAlt: "minimal luxury fashion woman editorial" },
-              { id: "2", name: "Sofie L.", handle: "@sofiel", testimonial: "Clothes in lovely materials and stunning colors and patterns.", imageSrc: "http://img.b2bpic.net/free-photo/woman-working-with-dried-flowers_52683-91337.jpg?_wi=2", imageAlt: "curated boutique interior luxury detail" },
-              { id: "3", name: "Anne K.", handle: "@annek", testimonial: "A cozy shop with great service and atmosphere.", imageSrc: "http://img.b2bpic.net/free-photo/vertical-closeup-shot-female-wearing-brown-dress-metallic-leaf-shaped-ring_181624-23911.jpg?_wi=2", imageAlt: "unique clothing piece detail fabric" },
-              { id: "4", name: "Pernille V.", handle: "@pernille", testimonial: "Finally a boutique in Aalborg with soul.", imageSrc: "http://img.b2bpic.net/free-photo/trendy-color-swatches-with-different-elements_23-2150169906.jpg?_wi=2", imageAlt: "curated color palette fashion tones" },
-              { id: "5", name: "Christina B.", handle: "@cb", testimonial: "The best selection of unique designs.", imageSrc: "http://img.b2bpic.net/free-photo/view-hawaiian-shirts-with-floral-print_23-2149366022.jpg?_wi=2", imageAlt: "artisan clothing print detail" },
+              { id: "1", name: "Mette H.", handle: "@metteh", testimonial: "Smukke, unikke kvalitetsprodukter ❤️", imageSrc: "http://img.b2bpic.net/free-photo/pretty-young-woman-with-wet-hair-posing-studio-wearing-black-oversize-blazer-shiny-necklace_343596-7120.jpg?_wi=3", imageAlt: "minimalistisk luksus mode kvinde" },
+              { id: "2", name: "Sofie L.", handle: "@sofiel", testimonial: "Tøj i lækre materialer og fantastiske farver og mønstre.", imageSrc: "http://img.b2bpic.net/free-photo/woman-working-with-dried-flowers_52683-91337.jpg?_wi=2", imageAlt: "kurateret boutique interiør luksus detalje" },
+              { id: "3", name: "Anne K.", handle: "@annek", testimonial: "En hyggelig butik med fantastisk service og atmosfære.", imageSrc: "http://img.b2bpic.net/free-photo/vertical-closeup-shot-female-wearing-brown-dress-metallic-leaf-shaped-ring_181624-23911.jpg?_wi=2", imageAlt: "unik beklædnings detalje" },
+              { id: "4", name: "Pernille V.", handle: "@pernille", testimonial: "Endelig en boutique i Aalborg med sjæl.", imageSrc: "http://img.b2bpic.net/free-photo/trendy-color-swatches-with-different-elements_23-2150169906.jpg?_wi=2", imageAlt: "kurateret farvepalette mode" },
+              { id: "5", name: "Christina B.", handle: "@cb", testimonial: "Det bedste udvalg af unikke designs.", imageSrc: "http://img.b2bpic.net/free-photo/view-hawaiian-shirts-with-floral-print_23-2149366022.jpg?_wi=2", imageAlt: "artisan tøj print detalje" },
             ]}
-            title="Words from our clients"
-            description="Why our community loves Butik Aleta."
+            title="Ord fra vores kunder"
+            description="Hvorfor vores community elsker Butik Aleta."
           />
         </div>
 
@@ -111,20 +111,20 @@ export default function LandingPage() {
           <ContactSplit
             useInvertedBackground={true}
             background={{ variant: "plain" }}
-            tag="Visit Us"
-            title="Visit Butik Aleta"
-            description="Danmarksgade 35b, 9000 Aalborg. Come visit us for a calm, welcoming experience where you can explore our curated selection at your own pace."
+            tag="Besøg os"
+            title="Besøg Butik Aleta"
+            description="Danmarksgade 35b, 9000 Aalborg. Kom og besøg os til en rolig, imødekommende oplevelse, hvor du kan udforske vores udvalg i dit eget tempo."
             imageSrc="http://img.b2bpic.net/free-photo/business-woman-leather-skirt-talking-phone_158595-929.jpg"
             mediaAnimation="slide-up"
-            buttonText="Inquire Now"
+            buttonText="Hør mere"
           />
         </div>
 
         <div id="footer" data-section="footer">
           <FooterLogoEmphasis
             columns={[
-              { items: [{ label: "Shop", href: "#collection" }, { label: "About", href: "#about" }, { label: "Contact", href: "#contact" }] },
-              { items: [{ label: "Instagram", href: "#" }, { label: "Facebook", href: "#" }, { label: "Privacy Policy", href: "#" }] },
+              { items: [{ label: "Butik", href: "#collection" }, { label: "Om os", href: "#about" }, { label: "Kontakt", href: "#contact" }] },
+              { items: [{ label: "Instagram", href: "#" }, { label: "Facebook", href: "#" }, { label: "Privatlivspolitik", href: "#" }] },
             ]}
             logoText="Butik Aleta"
           />
