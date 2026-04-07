@@ -77,6 +77,7 @@ export default function LandingPage() {
           <FeatureCardEight
             textboxLayout="split"
             useInvertedBackground={true}
+            buttons={[{ text: "Se hele udvalget", href: "#contact" }]}
             features={[
               {
                 title: "Unikke styles",                description: "Styles du ikke ser alle andre steder.",                imageSrc: "http://img.b2bpic.net/free-photo/vertical-closeup-shot-female-wearing-brown-dress-metallic-leaf-shaped-ring_181624-23911.jpg?_wi=1"},
