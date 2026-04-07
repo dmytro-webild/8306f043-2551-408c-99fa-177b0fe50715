@@ -54,9 +54,9 @@ export default function LandingPage() {
             ]}
             mediaItems={[
               {
-                imageSrc: "http://img.b2bpic.net/free-photo/pretty-young-woman-with-wet-hair-posing-studio-wearing-black-oversize-blazer-shiny-necklace_343596-7120.jpg?_wi=1",                imageAlt: "Luksus mode editorial 1"},
+                imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C1E0t8mxuGpZ0qBVz2J2MtoVjT/uploaded-1775555456880-e01wd302.jpg",                imageAlt: "Luksus mode editorial 1"},
               {
-                imageSrc: "http://img.b2bpic.net/free-photo/pretty-young-woman-with-wet-hair-posing-studio-wearing-black-oversize-blazer-shiny-necklace_343596-7120.jpg?_wi=2",                imageAlt: "Luksus mode editorial 2"}
+                imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C1E0t8mxuGpZ0qBVz2J2MtoVjT/uploaded-1775555441076-n54p35mv.jpg",                imageAlt: "Luksus mode editorial 2"}
             ]}
             mediaAnimation="blur-reveal"
             rating={5}
