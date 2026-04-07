@@ -33,6 +33,7 @@ export default function LandingPage() {
               { name: "Historie", id: "about" },
               { name: "Kollektion", id: "collection" },
               { name: "Besøg os", id: "contact" },
+              { name: "Kontakt: 21 43 53 81", id: "tel:21435381" },
             ]}
             brandName="Butik Aleta"
           />
