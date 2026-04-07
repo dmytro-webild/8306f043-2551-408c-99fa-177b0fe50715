@@ -70,7 +70,7 @@ export default function LandingPage() {
             title="En personlig boutique"
             description="Butik Aleta er bygget på kærligheden til unikt tøj og gennemtænkte detaljer. Hver style er nøje udvalgt for sin kvalitet, tekstur og udtryk."
             subdescription="Kurateret med kærlighed af Frida."
-            imageSrc="http://img.b2bpic.net/free-photo/woman-working-with-dried-flowers_52683-91337.jpg?_wi=1"
+            imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C1E0t8mxuGpZ0qBVz2J2MtoVjT/uploaded-1775555745844-ikkptb4w.jpg"
             imageAlt="Boutique interiør detaljer"
             icon={Sparkles}
           />
