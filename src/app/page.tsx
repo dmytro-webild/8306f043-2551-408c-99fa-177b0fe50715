@@ -50,9 +50,9 @@ export default function LandingPage() {
             ]}
             mediaItems={[
               {
-                imageSrc: "http://img.b2bpic.net/free-photo/pretty-young-woman-with-wet-hair-posing-studio-wearing-black-oversize-blazer-shiny-necklace_343596-7120.jpg",                imageAlt: "Luxury fashion editorial 1"},
+                imageSrc: "http://img.b2bpic.net/free-photo/pretty-young-woman-with-wet-hair-posing-studio-wearing-black-oversize-blazer-shiny-necklace_343596-7120.jpg?_wi=1",                imageAlt: "Luxury fashion editorial 1"},
               {
-                imageSrc: "http://img.b2bpic.net/free-photo/pretty-young-woman-with-wet-hair-posing-studio-wearing-black-oversize-blazer-shiny-necklace_343596-7120.jpg",                imageAlt: "Luxury fashion editorial 2"}
+                imageSrc: "http://img.b2bpic.net/free-photo/pretty-young-woman-with-wet-hair-posing-studio-wearing-black-oversize-blazer-shiny-necklace_343596-7120.jpg?_wi=2",                imageAlt: "Luxury fashion editorial 2"}
             ]}
             mediaAnimation="blur-reveal"
             rating={5}
@@ -67,7 +67,7 @@ export default function LandingPage() {
             title="A Personal Boutique"
             description="Butik Aleta is built on a love for unique clothing and thoughtful details. Each piece is carefully chosen for its quality, texture, and expression."
             subdescription="Curated with care by Frida."
-            imageSrc="http://img.b2bpic.net/free-photo/woman-working-with-dried-flowers_52683-91337.jpg"
+            imageSrc="http://img.b2bpic.net/free-photo/woman-working-with-dried-flowers_52683-91337.jpg?_wi=1"
             imageAlt="Boutique interior details"
             icon={Sparkles}
           />
@@ -79,11 +79,11 @@ export default function LandingPage() {
             useInvertedBackground={true}
             features={[
               {
-                title: "Unique Pieces",                description: "Styles you won’t see everywhere else.",                imageSrc: "http://img.b2bpic.net/free-photo/vertical-closeup-shot-female-wearing-brown-dress-metallic-leaf-shaped-ring_181624-23911.jpg"},
+                title: "Unique Pieces",                description: "Styles you won’t see everywhere else.",                imageSrc: "http://img.b2bpic.net/free-photo/vertical-closeup-shot-female-wearing-brown-dress-metallic-leaf-shaped-ring_181624-23911.jpg?_wi=1"},
               {
-                title: "Quality Materials",                description: "Fabrics that feel as good as they look.",                imageSrc: "http://img.b2bpic.net/free-photo/trendy-color-swatches-with-different-elements_23-2150169906.jpg"},
+                title: "Quality Materials",                description: "Fabrics that feel as good as they look.",                imageSrc: "http://img.b2bpic.net/free-photo/trendy-color-swatches-with-different-elements_23-2150169906.jpg?_wi=1"},
               {
-                title: "Colors & Textures",                description: "Carefully selected tones, prints, and details.",                imageSrc: "http://img.b2bpic.net/free-photo/view-hawaiian-shirts-with-floral-print_23-2149366022.jpg"},
+                title: "Colors & Textures",                description: "Carefully selected tones, prints, and details.",                imageSrc: "http://img.b2bpic.net/free-photo/view-hawaiian-shirts-with-floral-print_23-2149366022.jpg?_wi=1"},
             ]}
             title="The Collection"
             description="Discover pieces curated for those who value individuality and quality."
@@ -96,11 +96,11 @@ export default function LandingPage() {
             textboxLayout="default"
             useInvertedBackground={false}
             testimonials={[
-              { id: "1", name: "Mette H.", handle: "@metteh", testimonial: "Beautiful, unique quality pieces ❤️", imageSrc: "http://img.b2bpic.net/free-photo/pretty-young-woman-with-wet-hair-posing-studio-wearing-black-oversize-blazer-shiny-necklace_343596-7120.jpg", imageAlt: "minimal luxury fashion woman editorial" },
-              { id: "2", name: "Sofie L.", handle: "@sofiel", testimonial: "Clothes in lovely materials and stunning colors and patterns.", imageSrc: "http://img.b2bpic.net/free-photo/woman-working-with-dried-flowers_52683-91337.jpg", imageAlt: "curated boutique interior luxury detail" },
-              { id: "3", name: "Anne K.", handle: "@annek", testimonial: "A cozy shop with great service and atmosphere.", imageSrc: "http://img.b2bpic.net/free-photo/vertical-closeup-shot-female-wearing-brown-dress-metallic-leaf-shaped-ring_181624-23911.jpg", imageAlt: "unique clothing piece detail fabric" },
-              { id: "4", name: "Pernille V.", handle: "@pernille", testimonial: "Finally a boutique in Aalborg with soul.", imageSrc: "http://img.b2bpic.net/free-photo/trendy-color-swatches-with-different-elements_23-2150169906.jpg", imageAlt: "curated color palette fashion tones" },
-              { id: "5", name: "Christina B.", handle: "@cb", testimonial: "The best selection of unique designs.", imageSrc: "http://img.b2bpic.net/free-photo/view-hawaiian-shirts-with-floral-print_23-2149366022.jpg", imageAlt: "artisan clothing print detail" },
+              { id: "1", name: "Mette H.", handle: "@metteh", testimonial: "Beautiful, unique quality pieces ❤️", imageSrc: "http://img.b2bpic.net/free-photo/pretty-young-woman-with-wet-hair-posing-studio-wearing-black-oversize-blazer-shiny-necklace_343596-7120.jpg?_wi=3", imageAlt: "minimal luxury fashion woman editorial" },
+              { id: "2", name: "Sofie L.", handle: "@sofiel", testimonial: "Clothes in lovely materials and stunning colors and patterns.", imageSrc: "http://img.b2bpic.net/free-photo/woman-working-with-dried-flowers_52683-91337.jpg?_wi=2", imageAlt: "curated boutique interior luxury detail" },
+              { id: "3", name: "Anne K.", handle: "@annek", testimonial: "A cozy shop with great service and atmosphere.", imageSrc: "http://img.b2bpic.net/free-photo/vertical-closeup-shot-female-wearing-brown-dress-metallic-leaf-shaped-ring_181624-23911.jpg?_wi=2", imageAlt: "unique clothing piece detail fabric" },
+              { id: "4", name: "Pernille V.", handle: "@pernille", testimonial: "Finally a boutique in Aalborg with soul.", imageSrc: "http://img.b2bpic.net/free-photo/trendy-color-swatches-with-different-elements_23-2150169906.jpg?_wi=2", imageAlt: "curated color palette fashion tones" },
+              { id: "5", name: "Christina B.", handle: "@cb", testimonial: "The best selection of unique designs.", imageSrc: "http://img.b2bpic.net/free-photo/view-hawaiian-shirts-with-floral-print_23-2149366022.jpg?_wi=2", imageAlt: "artisan clothing print detail" },
             ]}
             title="Words from our clients"
             description="Why our community loves Butik Aleta."
