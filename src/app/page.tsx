@@ -42,7 +42,7 @@ export default function LandingPage() {
         <div id="home" data-section="home">
           <HeroSplitDualMedia
             background={{ variant: "radial-gradient" }}
-            title="unik Tøj og livstil butik du ikke finder andre steder"
+            title="Unik tøj og livstil butik du ikke finder andre steder"
             description="Nøje udvalgte styles i smukke materialer, farver og silhuetter. Kurateret med kærlighed til kvinder, der ønsker noget unikt."
             tag="Luksus Boutique"
             buttons={[
