@@ -113,7 +113,7 @@ export default function LandingPage() {
             background={{ variant: "plain" }}
             tag="Besøg os"
             title="Besøg Butik Aleta"
-            description="Danmarksgade 35b, 9000 Aalborg. Kom og besøg os til en rolig, imødekommende oplevelse, hvor du kan udforske vores udvalg i dit eget tempo."
+            description="Danmarksgade 35b, 9000 Aalborg. Kom og besøg os til en rolig, imødekommende oplevelse, hvor du kan udforske vores udvalg i dit eget tempo. Åbningstider: Man-Fre 10-17."
             imageSrc="http://img.b2bpic.net/free-photo/business-woman-leather-skirt-talking-phone_158595-929.jpg"
             mediaAnimation="slide-up"
             buttonText="Hør mere"
