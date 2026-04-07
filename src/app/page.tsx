@@ -70,23 +70,23 @@ export default function LandingPage() {
       ]}
       mediaItems={[
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/pretty-young-woman-with-wet-hair-posing-studio-wearing-black-oversize-blazer-shiny-necklace_343596-7120.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/pretty-young-woman-with-wet-hair-posing-studio-wearing-black-oversize-blazer-shiny-necklace_343596-7120.jpg?_wi=1",
           imageAlt: "Luxury fashion editorial 1",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/pretty-young-woman-with-wet-hair-posing-studio-wearing-black-oversize-blazer-shiny-necklace_343596-7120.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/pretty-young-woman-with-wet-hair-posing-studio-wearing-black-oversize-blazer-shiny-necklace_343596-7120.jpg?_wi=2",
           imageAlt: "Luxury fashion editorial 2",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/pretty-young-woman-with-wet-hair-posing-studio-wearing-black-oversize-blazer-shiny-necklace_343596-7120.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/pretty-young-woman-with-wet-hair-posing-studio-wearing-black-oversize-blazer-shiny-necklace_343596-7120.jpg?_wi=3",
           imageAlt: "Luxury fashion editorial 3",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/pretty-young-woman-with-wet-hair-posing-studio-wearing-black-oversize-blazer-shiny-necklace_343596-7120.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/pretty-young-woman-with-wet-hair-posing-studio-wearing-black-oversize-blazer-shiny-necklace_343596-7120.jpg?_wi=4",
           imageAlt: "Luxury fashion editorial 4",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/pretty-young-woman-with-wet-hair-posing-studio-wearing-black-oversize-blazer-shiny-necklace_343596-7120.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/pretty-young-woman-with-wet-hair-posing-studio-wearing-black-oversize-blazer-shiny-necklace_343596-7120.jpg?_wi=5",
           imageAlt: "Luxury fashion editorial 5",
         },
       ]}
@@ -103,7 +103,7 @@ export default function LandingPage() {
       title="A Personal Boutique"
       description="Butik Aleta is built on a love for unique clothing and thoughtful details. Each piece is carefully chosen for its quality, texture, and expression."
       subdescription="Curated with care by Frida."
-      imageSrc="http://img.b2bpic.net/free-photo/woman-working-with-dried-flowers_52683-91337.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/woman-working-with-dried-flowers_52683-91337.jpg?_wi=1"
       imageAlt="Boutique interior details"
       icon={Sparkles}
     />
@@ -117,17 +117,17 @@ export default function LandingPage() {
         {
           title: "Unique Pieces",
           description: "Styles you won’t see everywhere else.",
-          imageSrc: "http://img.b2bpic.net/free-photo/vertical-closeup-shot-female-wearing-brown-dress-metallic-leaf-shaped-ring_181624-23911.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/vertical-closeup-shot-female-wearing-brown-dress-metallic-leaf-shaped-ring_181624-23911.jpg?_wi=1",
         },
         {
           title: "Quality Materials",
           description: "Fabrics that feel as good as they look.",
-          imageSrc: "http://img.b2bpic.net/free-photo/trendy-color-swatches-with-different-elements_23-2150169906.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/trendy-color-swatches-with-different-elements_23-2150169906.jpg?_wi=1",
         },
         {
           title: "Colors & Textures",
           description: "Carefully selected tones, prints, and details.",
-          imageSrc: "http://img.b2bpic.net/free-photo/view-hawaiian-shirts-with-floral-print_23-2149366022.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/view-hawaiian-shirts-with-floral-print_23-2149366022.jpg?_wi=1",
         },
       ]}
       title="The Collection"
@@ -146,7 +146,7 @@ export default function LandingPage() {
           name: "Mette H.",
           handle: "@metteh",
           testimonial: "Beautiful, unique quality pieces ❤️",
-          imageSrc: "http://img.b2bpic.net/free-photo/pretty-young-woman-with-wet-hair-posing-studio-wearing-black-oversize-blazer-shiny-necklace_343596-7120.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/pretty-young-woman-with-wet-hair-posing-studio-wearing-black-oversize-blazer-shiny-necklace_343596-7120.jpg?_wi=6",
           imageAlt: "minimal luxury fashion woman editorial",
         },
         {
@@ -154,7 +154,7 @@ export default function LandingPage() {
           name: "Sofie L.",
           handle: "@sofiel",
           testimonial: "Clothes in lovely materials and stunning colors and patterns.",
-          imageSrc: "http://img.b2bpic.net/free-photo/woman-working-with-dried-flowers_52683-91337.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/woman-working-with-dried-flowers_52683-91337.jpg?_wi=2",
           imageAlt: "curated boutique interior luxury detail",
         },
         {
@@ -162,7 +162,7 @@ export default function LandingPage() {
           name: "Anne K.",
           handle: "@annek",
           testimonial: "A cozy shop with great service and atmosphere.",
-          imageSrc: "http://img.b2bpic.net/free-photo/vertical-closeup-shot-female-wearing-brown-dress-metallic-leaf-shaped-ring_181624-23911.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/vertical-closeup-shot-female-wearing-brown-dress-metallic-leaf-shaped-ring_181624-23911.jpg?_wi=2",
           imageAlt: "unique clothing piece detail fabric",
         },
         {
@@ -170,7 +170,7 @@ export default function LandingPage() {
           name: "Pernille V.",
           handle: "@pernille",
           testimonial: "Finally a boutique in Aalborg with soul.",
-          imageSrc: "http://img.b2bpic.net/free-photo/trendy-color-swatches-with-different-elements_23-2150169906.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/trendy-color-swatches-with-different-elements_23-2150169906.jpg?_wi=2",
           imageAlt: "curated color palette fashion tones",
         },
         {
@@ -178,7 +178,7 @@ export default function LandingPage() {
           name: "Christina B.",
           handle: "@cb",
           testimonial: "The best selection of unique designs.",
-          imageSrc: "http://img.b2bpic.net/free-photo/view-hawaiian-shirts-with-floral-print_23-2149366022.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/view-hawaiian-shirts-with-floral-print_23-2149366022.jpg?_wi=2",
           imageAlt: "artisan clothing print detail",
         },
       ]}
