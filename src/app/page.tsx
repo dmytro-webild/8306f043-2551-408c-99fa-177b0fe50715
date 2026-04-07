@@ -116,6 +116,7 @@ export default function LandingPage() {
             description="Danmarksgade 35b, 9000 Aalborg. Come visit us for a calm, welcoming experience where you can explore our curated selection at your own pace."
             imageSrc="http://img.b2bpic.net/free-photo/business-woman-leather-skirt-talking-phone_158595-929.jpg"
             mediaAnimation="slide-up"
+            buttonText="Inquire Now"
           />
         </div>
 
