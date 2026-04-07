@@ -45,7 +45,7 @@ export default function LandingPage() {
             description="Nøje udvalgte styles i smukke materialer, farver og silhuetter. Kurateret med kærlighed til kvinder, der ønsker noget unikt."
             tag="Luksus Boutique"
             buttons={[
-              { text: "Se kollektion", href: "#collection" },
+              { text: "Se kollektionen", href: "#collection" },
               { text: "Besøg butikken", href: "#contact" },
             ]}
             mediaItems={[
