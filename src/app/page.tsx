@@ -46,7 +46,10 @@ export default function LandingPage() {
             tag="Luksus Boutique"
             buttons={[
               { text: "Se kollektionen", href: "#collection" },
-              { text: "Besøg butikken", href: "#contact" },
+              { 
+                text: "Besøg butikken", 
+                href: "https://www.google.com/maps/place/Butik+Aleta/@57.0450715,9.9227968,128m/data=!3m1!1e3!4m6!3m5!1s0x464933b058b66cb5:0x328371ea57c19de!8m2!3d57.0452479!4d9.9234379!16s%2Fg%2F11js79l3s5!5m1!1e1?entry=ttu&g_ep=EgoyMDI2MDQwMS4wIKXMDSoASAFQAw%3D%3D" 
+              },
             ]}
             mediaItems={[
               {
