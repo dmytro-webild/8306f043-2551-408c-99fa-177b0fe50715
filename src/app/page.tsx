@@ -125,7 +125,7 @@ export default function LandingPage() {
           <FooterLogoEmphasis
             columns={[
               { items: [{ label: "Butik", href: "#collection" }, { label: "Om os", href: "#about" }, { label: "Kontakt", href: "#contact" }] },
-              { items: [{ label: "Instagram", href: "#" }, { label: "Facebook", href: "#" }, { label: "Privatlivspolitik", href: "#" }] },
+              { items: [{ label: "Instagram", href: "https://instagram.com/butikaleta" }, { label: "Facebook", href: "#" }, { label: "Privatlivspolitik", href: "#" }] },
             ]}
             logoText="Butik Aleta"
           />
